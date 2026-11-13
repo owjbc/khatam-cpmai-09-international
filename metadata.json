@@ -1,0 +1,6 @@
+{
+  "name": "پروتکل برگزاری بوت‌کمپ آموزشی CPMAI — مشاوران مدیریت کسب و کار اوج",
+  "description": "بازطراحی جامع پروتکل اجرایی و مشخصات بوت‌کمپ آموزشی راهبری هوش مصنوعی (CPMAI) ویژه طرح پتروشیمی دماوند — شرکت مشاوران مدیریت کسب و کار اوج",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
